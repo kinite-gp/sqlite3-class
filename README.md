@@ -1,6 +1,6 @@
 # sqlite3-class
  
-Certainly! Here's a simple README file for the `Connector` class with both Persian (Farsi) and English content:
+Here's a simple README file for the `Connector` class with both Persian (Farsi) and English content:
 
 ---
 
